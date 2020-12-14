@@ -19,4 +19,6 @@ ipython kernel install --user --name=nlp-course
 [тренировка простых нейронных сетей](https://github.com/vitaliyradchenko/rd-nlp-course/blob/main/workshops/Intro%20to%20NN.ipynb)
 5. [Recurrent neural networks](https://docs.google.com/presentation/d/13ar7A9MWugvGeD-07FhRR8UVPs7JZrQhM4xuKsU0oW8/edit?usp=sharing)
 6. [Использование предобученных векторов слов](https://github.com/vitaliyradchenko/rd-nlp-course/blob/main/workshops/Simple%20NN.ipynb)
-7. [Использование реккурентных нейронных сетей](https://github.com/vitaliyradchenko/rd-nlp-course/blob/main/workshops/RNN.ipynb)
+7. [Использование рекуррентных нейронных сетей](https://github.com/vitaliyradchenko/rd-nlp-course/blob/main/workshops/RNN.ipynb)
+8. [Языковая модель и архитектура transformer](https://docs.google.com/presentation/d/1ac0slzDyzmtZxm1W4jB-GZpYYZ2h08XeSoFaPMYmnVQ/edit)
+9. [Токенизация и ознакомление с библиотекой transformers](https://github.com/vitaliyradchenko/rd-nlp-course/blob/main/workshops/Tokenization%20and%20into%20to%20transformers%20by%20HuggingFace.ipynb)
