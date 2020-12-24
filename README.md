@@ -23,3 +23,6 @@ ipython kernel install --user --name=nlp-course
 8. [Языковая модель и архитектура transformer](https://docs.google.com/presentation/d/1ac0slzDyzmtZxm1W4jB-GZpYYZ2h08XeSoFaPMYmnVQ/edit)
 9. [Токенизация и ознакомление с библиотекой transformers](https://github.com/vitaliyradchenko/rd-nlp-course/blob/main/workshops/Tokenization%20and%20into%20to%20transformers%20by%20HuggingFace.ipynb)
 10. [Генерация речи](https://github.com/vitaliyradchenko/rd-nlp-course/blob/main/workshops/Text%generation.ipynb)
+11. [Разбор SOTA архитектур основанных на трансформерах](https://docs.google.com/presentation/d/1iUKFlUung6VdGpsa1eFtPv3H5Got3CXOK-_TIQr4WSU/edit?usp=sharing)
+12. [Подходы к файнтюнингу](https://docs.google.com/presentation/d/1VyVplkTasPpD-w3l-p2Ont6f2IVouOZa64V-8yEogqs/edit?usp=sharing)
+13. [Технические модификации тренировки и инференса](https://github.com/vitaliyradchenko/rd-nlp-course/blob/main/workshops/Training%tricks.ipynb)
