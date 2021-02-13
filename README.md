@@ -26,3 +26,7 @@ ipython kernel install --user --name=nlp-course
 11. [Разбор SOTA архитектур основанных на трансформерах](https://docs.google.com/presentation/d/1iUKFlUung6VdGpsa1eFtPv3H5Got3CXOK-_TIQr4WSU/edit?usp=sharing)
 12. [Подходы к файнтюнингу](https://docs.google.com/presentation/d/1VyVplkTasPpD-w3l-p2Ont6f2IVouOZa64V-8yEogqs/edit?usp=sharing)
 13. [Технические модификации тренировки и инференса](https://github.com/vitaliyradchenko/rd-nlp-course/blob/main/workshops/Training%tricks.ipynb)
+14. [Ner воркшоп](https://github.com/vitaliyradchenko/rd-nlp-course/blob/main/workshops/Ner_workshop.ipynb)
+15. [Conversation Ai. Чатботы](https://docs.google.com/presentation/d/1WFJTAKLAucoM0RCFxJnZ6CCY6mBCAWugHFu18FtNfx8/edit?usp=sharing)
+16. [Анализ и интерпертация результатов](https://docs.google.com/presentation/d/1GdOkbKyhUuZJ8MuQBsNaU4SF8jn8l4JxEdkKAl80yqA/edit?usp=sharing)
+17. [Оптимизация моделей. Дистилляция](https://docs.google.com/presentation/d/1rsHITht30cyDwceVEKanKS8pRFProa8ex-EYPgH20Ds/edit?usp=sharing). [Подготовка модели ученика для дистилляции](https://github.com/vitaliyradchenko/rd-nlp-course/blob/main/workshops/Initialize_student_model.ipynb)
